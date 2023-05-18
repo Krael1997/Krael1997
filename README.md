@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abel</h1>
 <h3 align="center">A passionate developer from Malaga</h3>
 
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhtd4mr3001608k4xcne0lt5/stats?cursusId=58&coalitionId=275" alt="abelrodr's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhtd4mr3001608k4xcne0lt5/stats?cursusId=21&coalitionId=275" alt="abelrodr's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhtd4mr3001608k4xcne0lt5/stats?cursusId=9&coalitionId=215" alt="abelrodr's 42 stats" /></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krael1997&label=Profile%20views&color=0e75b6&style=flat" alt="krael1997" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krael1997" alt="krael1997" /></a> </p>
