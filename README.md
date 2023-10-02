@@ -20,6 +20,7 @@
 | ft_printf      |     ![ft_printf](./badges/ft_printfe.png)    |                                                         |
 | pipex          |               ![pipex](./badges/pipexe.png)  |  ![pipex-bonus](./badges/pipexm.png)                    |
 | push_swap      |     ![push_swap](./badges/push_swape.png)    |  ![push_swap-bonus](./badges/push_swapm.png)            |
+| so_long        |    IN PROGRESS                               |  IN PROGRESS                                            |
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abel-rodriguez-gomez-20a446132/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kraelkore) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AbelRodriguez97) 
